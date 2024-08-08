@@ -1,4 +1,4 @@
-# React + Vite
+# React + Vite + fire-auth + context
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
